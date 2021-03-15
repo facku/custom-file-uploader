@@ -1,4 +1,4 @@
-# Custom File Uploder. React & Storybook
+# Custom File Uploader. React & Storybook
 
  > Builds with React. Also Storybook was integrate to the project.
 
